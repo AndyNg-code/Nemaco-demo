@@ -1,0 +1,9 @@
+[project]
+name = "nemaco-homepage"
+version = "1.0.0"
+description = "Homepage project for Nemaco website"
+requires-python = ">=3.11"
+dependencies = [
+    "trafilatura>=2.0.0",
+    "requests>=2.31.0",
+]
